@@ -1,0 +1,44 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 360 EcoPark PIK2
+
+## Media
+
+### Title
+album_F263B8A7_BB27_DFDE_4193_6CAC4FD1824B.label = Photo Album ProjectPIK2 (AreaEcopark)_ViewGerejaBEV_Draft01
+map_0A661006_3575_89F8_41C7_EF6E4B397085.label = Rukan Rome
+map_0ABC3FD9_357A_9608_41C0_4AEB6C917857.label = Rukan Petak Sembilan
+map_27F9DECF_1468_1673_41AD_CBB08A5D57DB.label = Little Marrakesh
+map_7511542A_357A_8A08_41AA_65986800CC19.label = Ecopark
+panorama_8804A9D1_ED55_5D1F_41D0_05F90C1CC665.label = 360Osaka_View13_RukanEuroAsiaTamanDoaAkita
+panorama_8F588660_ED55_F73D_41DD_1CB79A28AFB7.label = 360Osaka_View01_BEVOsaka
+panorama_8F614B1A_ED55_3D02_41DC_7EBF6413D426.label = 360Osaka_View14_TamanDoaAkita
+panorama_E14F26D8_ECD3_570D_41E7_1FE40D05016A.label = 360Osaka_View10_InteriorRukanEuroAsiaLt-3
+panorama_E14FA8EC_ECD3_3B06_41CC_411B5FB7E131.label = 360Osaka_View11_RukanEuroAsia-Korea
+panorama_E157A520_ECDD_553E_41D6_FF8345A0E368.label = 360Osaka_View02_ApartmentOsaka
+panorama_E1631851_ECD5_3B1E_41ED_1A50EBB1969C.label = 360Osaka_View12_RukanEuroAsia-Jepang
+panorama_E189DC82_ECDC_FBFD_41EC_95A7EC23E939.label = 360Osaka_View06_RukanEuroAsia
+panorama_E1904D86_ECD3_3505_41D7_0E65605A6D92.label = 360Osaka_View07_RukanEuroAsia-Paris
+panorama_E196322B_ECD3_6F03_41C9_CA75E0735094.label = 360Osaka_View08_InteriorRukanEuroAsiaLt-1
+panorama_E19B74CD_ECDD_2B07_41E2_AFDF45F544AA.label = 360Osaka_View04_OsakaResidence
+panorama_E19D18A3_ECDD_5B02_41D4_9F0AE13BB411.label = 360Osaka_View05_RukanOsaka
+panorama_E1ABB868_ECD3_FB0E_41EC_7036534AE875.label = 360Osaka_View09_InteriorRukanEuroAsiaLt-2
+panorama_E1B0F87E_ECDD_FB05_41D6_19C34F771FE0.label = 360Osaka_View03_GerbangOsakaResidence
+
+## Hotspot
+
+### Tooltip
+HotspotMapOverlayArea_41AC34B9_14D8_0A1E_41A4_9F4A5268FF00.toolTip = Haji Line
+HotspotMapOverlayArea_4218800F_14E8_09F2_41A3_5F5B9B90EFCE.toolTip = Klenteng Ci Te Yen
+HotspotMapOverlayArea_4320BBBC_14E8_1E16_418F_B91928832C85.toolTip = Plaza Cin Te Yen
+HotspotMapOverlayArea_43557641_14E8_366F_419B_0B00F763DA79.toolTip = Plaza Masjid Agung
+HotspotMapOverlayArea_47D87D10_14D8_1BED_41B1_13E42A0D4F61.toolTip = BEV Eco Park
+HotspotMapOverlayArea_49F58F48_14F8_167E_41A0_5AE6C79DECE6.toolTip = Boulevard
+HotspotMapOverlayArea_4D106DFA_14D8_1A12_419E_3A8BA4C67D22.toolTip = Masjid Agung
+HotspotMapOverlayArea_4DEE4166_14E8_0A35_4174_66CE044FEE20.toolTip = Grand WaterTown
+HotspotMapOverlayArea_4E4FC3F4_14E8_0E15_418A_4C693B8B80F3.toolTip = Gereja Basilica
