@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = 360 EcoPark PIK2
+tour.name = 360 Osaka PIK2
 
 ## Media
 
